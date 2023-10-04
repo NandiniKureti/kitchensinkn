@@ -1,0 +1,18 @@
+{
+    "AS_Form_j942ce24c2b544fd9742cd94fe8092a8": {
+        "id": "AS_Form_j942ce24c2b544fd9742cd94fe8092a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAclMeterReadings",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e08e8d8a942846a3862fc89addd53ef8"
+        },
+        "language": "js",
+        "actions": []
+    }
+}
