@@ -310,9 +310,9 @@
     "cordovaVersionInfo": {
         "useGlobalCordova": false
     },
-    "createdVizVersion": "9.5.209",
-    "createdgaversion": "9.5.209",
-    "currentgaversion": "9.5.209",
+    "createdVizVersion": "9.5.208",
+    "createdgaversion": "9.5.208",
+    "currentgaversion": "9.5.208",
     "deeplinkkey": "None",
     "defaultlocalekey": null,
     "defaulttheme": "defaultTheme",
@@ -444,7 +444,7 @@
             "version": "1.0"
         }
     },
-    "konyVizVersion": "9.5.209",
+    "konyVizVersion": "9.5.208",
     "lastmodifiedtime": "1560937851160",
     "location": "false",
     "log_level": "ERROR",
